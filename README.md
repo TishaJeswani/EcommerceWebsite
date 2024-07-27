@@ -48,9 +48,6 @@
 <img src="/image_readme/checkout.png">
 <img src="/image_readme/address.png">
 
-### Payment Successful Page :
-<p>-- Payment Gateway Feature (Not Integrated as it's not in production)</p>
-<img src="/image_readme/payment.png">
 
 ### Orders page :
 <p>-- Details of the orders</p>
